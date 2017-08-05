@@ -1,0 +1,11 @@
+{
+  "name": "expressq",
+  "version": "1.0.1",
+  "description": "Faster and simpler ExpressJS prototyping and application building.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
